@@ -1,9 +1,10 @@
 pitch = 0
 roll = 0
+radio.set_group(1)
 LEFT_ROLL = -15
 RIGHT_ROLL = 15
-FORWARD_PITCH = 25
-BACKWARD_PITCH = 45
+FORWARD_PITCH = 15
+BACKWARD_PITCH = 50
 # display image
 # open claw
 
