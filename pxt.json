@@ -11,7 +11,7 @@
         "main.ts",
         "README.md",
         "main.py",
-        "enums.ts"
+        "actions_enum_block.ts"
     ],
     "testFiles": [
         "test.ts"
